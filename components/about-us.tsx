@@ -47,15 +47,15 @@ export default function AboutUs() {
     },
   ];
 
-  return (
-className="py-12 md:py-20 bg-gradient-to-b from-background via-background to-primary/5">
-      <style>{slideInStyles}</style>
+return (
+  <section className="py-12 md:py-20 bg-gradient-to-b from-background via-background to-primary/5">
+    <style>{slideInStyles}</style>
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        {/* TOP SECTION */}
-gap-10 items-center mb-12">
-          
-          {/* LEFT TEXT */}
+<div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+  {/* TOP SECTION */}
+  <div className="grid md:grid-cols-2 gap-10 items-center mb-12">
+    
+    {/* LEFT TEXT */}
           <div className="slide-in-left">
             <p className="text-sm font-semibold text-primary mb-4 tracking-widest">
               ABOUT US
