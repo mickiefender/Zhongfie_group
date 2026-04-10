@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "portfolio": "Portfolio",
+    "pricing": "Pricing"
+  },
+  "hero": {
+    "title": "Innovate. Build. Scale.",
+    "subtitle": "Delivering world-class digital solutions built to scale, perform, and transform the way you operate.",
+    "button": "Get Started"
+  },
+  "about": {
+    "tag": "ABOUT US",
+    "title": "Who is <strong>Zhongfei Groupe?</strong>",
+    "desc1": "Founded with a vision to revolutionize digital commerce and mobility, Zhongfei Groupe has grown into a multi-dimensional technology company serving millions of users across 100+ countries.",
+    "desc2": "We believe in the power of technology to solve real-world problems. Our integrated ecosystem creates seamless experiences for merchants, consumers, and service providers.",
+    "stats": {
+      "founded": "Founded",
+      "team": "Team Members",
+      "gmv": "Annual GMV"
+    },
+    "journey": "Our <strong>Journey</strong>",
+    "milestones": [
+      {
+        "year": "2009",
+        "title": "Founded",
+        "desc": "Established with vision to transform digital commerce"
+      },
+      {
+        "year": "2012",
+        "title": "First Platform Launch",
+        "desc": "Launched Zhongfei.shop, revolutionizing ecommerce in Asia"
+      },
+      {
+        "year": "2016",
+        "title": "Global Expansion",
+        "desc": "Expanded operations to 50+ countries globally"
+      },
+      {
+        "year": "2020",
+        "title": "Droverides Launch",
+        "desc": "Entered mobility and transportation space"
+      },
+      {
+        "year": "2023",
+        "title": "Milestone Achievement",
+        "desc": "Reached 50 million active users across all platforms"
+      }
+    ],
+    "values": {
+      "innovation": "Innovation",
+      "customer": "Customer-Centric",
+      "excellence": "Excellence",
+      "reliability": "Reliability"
+    }
+  },
+  "footer": {
+    "products": "Products",
+    "company": "Company",
+    "support": "Support",
+    "legal": "Legal",
+    "copyright": "© {year} Zhongfei Groupe. All rights reserved.",
+    "subtitle": "Built with innovation and care for a better digital future"
+  }
