@@ -5,9 +5,9 @@ import { Linkedin, Twitter, Mail } from 'lucide-react';
 
 
 export default function CEOSection() {
-  return (
-className="py-12 md:py-20 bg-background">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+return (
+  <section className="py-12 md:py-20 bg-background">
+    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid md:grid-cols-2 gap-12 items-start">
           {/* Left - Profile Image */}
           <div className="flex justify-center md:justify-start">
