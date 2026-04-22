@@ -64,9 +64,7 @@ export default function Hero() {
          Delivering world-class digital solutions built to scale, perform, and transform the way you operate.
         </p>
 
-        <Button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3">
-          Get Started
-        </Button>
+        
       </motion.div>
     </section>
   );

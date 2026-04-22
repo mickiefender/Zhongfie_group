@@ -3,11 +3,11 @@
 import Image from "next/image"
 
 const schoolPartners = [
-  { id: 1, name: "Drove rides", logo: "/products/drove_splashDark.png" },
-  { id: 2, name: "Zhongfei.shop", logo: "/products/ecommerce-logo.png" },
-  { id: 3, name: "Drove Driver", logo: "/products/drove-new-logo-driver_dk.PNG" },
-  { id: 4, name: "Drove Rider", logo: "/products/drove-new-logo-rider_dk.PNG" },
-  { id: 5, name: "Zhongfei", logo: "/products/zhongfei-main-logo-300x300.png" },
+ 
+  { id: 1, name: "Zhongfei.shop", logo: "/products/ecommerce-logo.png" },
+  { id: 2, name: "Drove Driver", logo: "/products/drove-new-logo-driver_dk.PNG" },
+  { id: 3, name: "Drove Rider", logo: "/products/drove-new-logo-rider_dk.PNG" },
+  
 ]
 
 export function ProductsSlide() {

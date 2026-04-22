@@ -25,7 +25,6 @@ export default function Navigation({ activeSection, setActiveSection }: Navigati
   const navLinks = [
     { label: 'Home', id: 'home' },
     { label: 'About', id: 'about' },
-    { label: 'CEO', id: 'ceo' },
     { label: 'Team', id: 'leadership' },
     { label: 'Products', id: 'products' },
     { label: 'Contact', id: 'contact' },
